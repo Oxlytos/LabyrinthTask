@@ -89,7 +89,6 @@ namespace LabyrinthTask
                     DrawLabyrinth(size -1);
                 }
 
-                i
 
                
            }
